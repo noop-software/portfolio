@@ -1,17 +1,16 @@
 {
-    "apps": [
-        {
-            "id": "6498717417"
-            "name": "Water+",
-            "appStoreURL": "https://apps.apple.com/app/id6498717417",
-            "iconURL": "https://github.com/noop-software/portfolio/blob/main/assets/water/icon.png"
-        },
-        {
-            "id": "6739307938"
-            "name": "Conta Tento",
-            "appStoreURL": "https://apps.apple.com/app/id6739307938",
-            "iconURL": ""
-        },
-        
-    ]
+  "apps": [
+    {
+      "id": "6498717417",
+      "name": "Water+",
+      "appStoreURL": "https://apps.apple.com/app/id6498717417",
+      "iconURL": "https://github.com/noop-software/portfolio/blob/main/assets/water/icon.png"
+    },
+    {
+      "id": "6739307938",
+      "name": "Conta Tento",
+      "appStoreURL": "https://apps.apple.com/app/id6739307938",
+      "iconURL": ""
+    }
+  ]
 }
